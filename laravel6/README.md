@@ -1,6 +1,7 @@
 
 <p align="center">
-Link :http://adamnurkridabayu.inyonghost.com/mahasiswa
+
+Link web hosting :http://adamnurkridabayu.inyonghost.com/mahasiswa
     
 </p>
 
