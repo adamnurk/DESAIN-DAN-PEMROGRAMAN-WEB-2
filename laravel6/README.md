@@ -1,8 +1,8 @@
 
 <p align="center">
 
-Link web hosting :http://adamnurkridabayu.inyonghost.com/mahasiswa
-    
+Link web hosting dapat diakses pada:
+    http://adamnurkridabayu.inyonghost.com/
 </p>
 
 
