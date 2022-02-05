@@ -1,0 +1,24 @@
+.head{
+    background-color: red;
+    font-size: 2em;
+}
+
+#add{
+    background-color: rgb(65, 225, 145);
+    font-size: 0.8em;
+}
+
+#event{
+    background-color: blue;
+    font-size: 0.8em;
+}
+
+table{
+    border: solid black;
+}
+
+tr{
+    background-color: brown;
+    font-size: 0.9em;
+    text-align: center;
+}
